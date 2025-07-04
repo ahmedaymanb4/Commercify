@@ -1,5 +1,5 @@
 # Commercify
-It's an idea & implementation of an e-commerce project in Java. 
+It's an idea & implementation of an e-commerce, console project in Java. 
 Credits goes to [@Ahmed Ayman](https://github.com/ahmedaymanb4 ), a Fresh Software Engineer and Data Scientist.
 
 # Key features:
