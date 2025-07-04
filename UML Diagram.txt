@@ -1,0 +1,33 @@
+------------
+Customer: class
+------------
+-name: String
+-price: float
+-quantity: int 
+-expirationDate: Date
+-weight: float
+---
++Product(String name, float price, int quantity, Date expirationDate)
++Product(String name, float price, int quantity)
++getName(): String
++getPrice(): float
++getQuantity(): int
++getExpirationDate(): Date
++getWeight(): float
++setName(String name): void
++setPrice(float price): void
++setQuantity(int quantity): void
++setExpirationDate(Date expirationDate): void
++setWeight(float weight): void
+------------------------
+
+
+------------
+Cart: Class
+------------
++quantity
+---
++getQuantity(): int
++setQuantity(int quantity): void
++addProduct(String product, int quantity): boolean
+------------------------
